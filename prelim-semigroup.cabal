@@ -31,7 +31,7 @@ library
 
   build-depends:
                       base           >= 4     && < 5
-                    , semigroups     >= 0.8   && < 0.19
+                    , semigroups     >= 0.17  && < 0.19
                     , prelim-prelude == 0.0.1
 
   ghc-options:
